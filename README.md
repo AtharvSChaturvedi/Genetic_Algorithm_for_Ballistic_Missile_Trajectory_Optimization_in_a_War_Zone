@@ -1,6 +1,6 @@
 # 🚀 Genetic Algorithm for Ballistic Missile Trajectory Optimization
 
-![Alt text describing the image](trajectory_result.png)
+![Trajectory Results](trajectory_result.png)
 
 > Evolutionary path planning for ballistic missiles navigating hostile war-zone environments with enemy defense zones, altitude constraints, and G-force limits.
 
